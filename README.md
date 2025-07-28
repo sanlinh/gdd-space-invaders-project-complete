@@ -1,4 +1,4 @@
-This is a school project by a group of two students named San Lin Htet and Sai Naing Yi Tun
+This is a school project by a group of two students named San Lin Htet (6540187) and Sai Naing Yi Tun (6540191)
 # Space Invaders Game
 ## Game Rules
  
